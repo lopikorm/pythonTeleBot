@@ -1,2 +1,3 @@
-Марков Валерий
-t.me/project_media_bot
+Марков Валерий.
+[bot](t.me/project_media_bot).
+Бот показывает курсы криптовалют с https://api.coincap.io/v2/assets.
